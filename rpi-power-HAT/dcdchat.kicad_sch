@@ -2491,8 +2491,8 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid e81baed3-3dcf-49da-90b4-5cec40a0a7f3)
   )
-  (text "I found that to change\noutput voltage to 5.1V\nneed to change this \nresistor to 121k"
-    (at 105.41 36.83 0)
+  (text "I calculated value of R4, C4, R3\nusing formula in AP64500 doc. \n"
+    (at 103.505 36.195 0)
     (effects (font (size 1 1) italic) (justify left bottom))
     (uuid ee3fef51-d687-4de6-83f8-43356fe383b4)
   )
@@ -3000,10 +3000,10 @@
   (symbol (lib_id "Device:R") (at 111.125 41.275 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4b4c1b78-dbfd-4057-84d4-e5c010190612)
-    (property "Reference" "R4" (id 0) (at 113.665 40.0049 0)
+    (property "Reference" "R4" (id 0) (at 113.03 40.0049 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "115k" (id 1) (at 113.665 42.5449 0)
+    (property "Value" "119k" (id 1) (at 113.03 42.5449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 109.347 41.275 90)
@@ -3439,7 +3439,7 @@
     (property "Reference" "C4" (id 0) (at 94.615 59.0549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "39.6pF" (id 1) (at 94.615 61.5949 0)
+    (property "Value" "39.8pF" (id 1) (at 94.615 61.5949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 91.7702 64.135 0)
@@ -3628,10 +3628,10 @@
   (symbol (lib_id "Device:R") (at 79.375 59.055 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c291683c-ab20-4c3b-a113-e9f5c41c36b8)
-    (property "Reference" "R3" (id 0) (at 81.915 57.7849 0)
+    (property "Reference" "R3" (id 0) (at 81.28 57.7849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "15.8k" (id 1) (at 81.915 60.3249 0)
+    (property "Value" "16k" (id 1) (at 81.28 60.3249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 77.597 59.055 90)
@@ -3959,7 +3959,7 @@
       (reference "C3") (unit 1) (value "100nF") (footprint "")
     )
     (path "/a2d2f930-8739-4910-8da2-fdac6e010707"
-      (reference "C4") (unit 1) (value "39.6pF") (footprint "")
+      (reference "C4") (unit 1) (value "39.8pF") (footprint "")
     )
     (path "/546d44ff-42d4-46cb-9d91-74c808740184"
       (reference "C5") (unit 1) (value "OPEN") (footprint "")
@@ -4025,10 +4025,10 @@
       (reference "R2") (unit 1) (value "200k") (footprint "")
     )
     (path "/c291683c-ab20-4c3b-a113-e9f5c41c36b8"
-      (reference "R3") (unit 1) (value "15.8k") (footprint "")
+      (reference "R3") (unit 1) (value "16k") (footprint "")
     )
     (path "/4b4c1b78-dbfd-4057-84d4-e5c010190612"
-      (reference "R4") (unit 1) (value "115k") (footprint "")
+      (reference "R4") (unit 1) (value "119k") (footprint "")
     )
     (path "/5ec5a876-af46-4cc2-8f4a-ae87a431be92"
       (reference "R5") (unit 1) (value "22.1k") (footprint "")
