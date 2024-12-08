@@ -3500,7 +3500,7 @@
     (property "Value" "DMMT5401" (id 1) (at 170.815 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "ultralibDMG2305UX:DMG2305UX-7" (id 2) (at 184.15 48.895 0)
+    (property "Footprint" "DMMT5401easyeda:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR" (id 2) (at 184.15 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 184.15 48.895 0)
@@ -4075,7 +4075,7 @@
       (reference "U1") (unit 1) (value "AP64500") (footprint "ultralibAP64500:AP64500SP-13")
     )
     (path "/ae3f3061-e9e0-45af-9ffe-084324908309"
-      (reference "U2") (unit 1) (value "DMMT5401") (footprint "ultralibDMG2305UX:DMG2305UX-7")
+      (reference "U2") (unit 1) (value "DMMT5401") (footprint "DMMT5401easyeda:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR")
     )
   )
 )

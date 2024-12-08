@@ -2,4 +2,6 @@
   (lib (name "ultralibAP64500")(type "KiCad")(uri "${KIPRJMOD}/ultralibAP64500.pretty")(options "")(descr ""))
   (lib (name "ultralibDMG2305UX")(type "KiCad")(uri "${KIPRJMOD}/ultralibDMG2305UX.pretty")(options "")(descr ""))
   (lib (name "ultralibDMMT5401")(type "KiCad")(uri "${KIPRJMOD}/ultralibDMMT5401.pretty")(options "")(descr ""))
+  (lib (name "JL500-50802G01")(type "KiCad")(uri "${KIPRJMOD}/JL500-50802G01.pretty")(options "")(descr ""))
+  (lib (name "DMMT5401easyeda")(type "KiCad")(uri "${KIPRJMOD}/DMMT5401easyeda.pretty")(options "")(descr ""))
 )
