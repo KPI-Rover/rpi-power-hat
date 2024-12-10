@@ -4,4 +4,5 @@
   (lib (name "ultralibDMMT5401")(type "KiCad")(uri "${KIPRJMOD}/ultralibDMMT5401.pretty")(options "")(descr ""))
   (lib (name "JL500-50802G01")(type "KiCad")(uri "${KIPRJMOD}/JL500-50802G01.pretty")(options "")(descr ""))
   (lib (name "DMMT5401easyeda")(type "KiCad")(uri "${KIPRJMOD}/DMMT5401easyeda.pretty")(options "")(descr ""))
+  (lib (name "YSPI0724-4R7M")(type "KiCad")(uri "${KIPRJMOD}/YSPI0724-4R7M.pretty")(options "")(descr ""))
 )
