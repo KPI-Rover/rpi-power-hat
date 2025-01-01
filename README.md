@@ -1,3 +1,6 @@
-Плата врозробці.
+# RPI Power HAT
 
-Вимоги до друкованної плати: [doc/requirements.md](./doc/requirements.md)
+**In development! Not verified!**
+
+![PCB](doc/rpi-power-hat.jpg)
+
