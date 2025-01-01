@@ -1,8 +1,10 @@
 (fp_lib_table
+  (version 7)
   (lib (name "ultralibAP64500")(type "KiCad")(uri "${KIPRJMOD}/ultralibAP64500.pretty")(options "")(descr ""))
   (lib (name "ultralibDMG2305UX")(type "KiCad")(uri "${KIPRJMOD}/ultralibDMG2305UX.pretty")(options "")(descr ""))
   (lib (name "ultralibDMMT5401")(type "KiCad")(uri "${KIPRJMOD}/ultralibDMMT5401.pretty")(options "")(descr ""))
   (lib (name "JL500-50802G01")(type "KiCad")(uri "${KIPRJMOD}/JL500-50802G01.pretty")(options "")(descr ""))
   (lib (name "DMMT5401easyeda")(type "KiCad")(uri "${KIPRJMOD}/DMMT5401easyeda.pretty")(options "")(descr ""))
   (lib (name "YSPI0724-4R7M")(type "KiCad")(uri "${KIPRJMOD}/YSPI0724-4R7M.pretty")(options "")(descr ""))
+  (lib (name "rpi-power-hat")(type "KiCad")(uri "${KIPRJMOD}/rpi-power-hat.pretty")(options "")(descr ""))
 )
