@@ -6979,7 +6979,7 @@
 			(uuid "38fca7dc-2b57-4e98-a16b-f5d5a886914b")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR021")
 					(unit 1)
@@ -7046,7 +7046,7 @@
 			(uuid "02c8605e-1e4f-404f-adc6-46e4b9560090")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR028")
 					(unit 1)
@@ -7080,7 +7080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JL500-50802G01:CONN-TH_2P-P5.08_JL500-50002G01"
+		(property "Footprint" "DB125-2.54-2P-GN:CONN-TH_DB125-2.54-2P-GN"
 			(at 250.825 52.705 0)
 			(effects
 				(font
@@ -7089,7 +7089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061530_DORABO-DB125-2-54-2P-GN-S_C918120.pdf"
 			(at 250.825 52.705 0)
 			(effects
 				(font
@@ -7107,7 +7107,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C709041"
+		(property "LCSC" "C918120"
 			(at 250.825 52.705 0)
 			(effects
 				(font
@@ -7123,7 +7123,7 @@
 			(uuid "3eb9c6a2-1f08-40fa-9201-1cd3784e823f")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "J1")
 					(unit 1)
@@ -7204,7 +7204,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "MK4")
 					(unit 1)
@@ -7269,7 +7269,7 @@
 			(uuid "dbb227a1-23cf-4848-a17d-77ccf9d6f04c")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR030")
 					(unit 1)
@@ -7335,7 +7335,7 @@
 			(uuid "81db171a-20ef-48a6-a8ee-a122da609325")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR025")
 					(unit 1)
@@ -7401,7 +7401,7 @@
 			(uuid "eb14c2fe-cf7f-4e79-9004-a4645b73b89b")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR011")
 					(unit 1)
@@ -7482,7 +7482,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "MK1")
 					(unit 1)
@@ -7548,7 +7548,7 @@
 			(uuid "1b798900-78f3-45a8-bbb7-6dc712a41ee5")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR014")
 					(unit 1)
@@ -7627,7 +7627,7 @@
 			(uuid "5d91f4f9-c90f-40a0-b015-7884a0f5d97c")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "D1")
 					(unit 1)
@@ -7693,7 +7693,7 @@
 			(uuid "db71deff-4d08-4713-bc42-249098ebe812")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR024")
 					(unit 1)
@@ -7759,7 +7759,7 @@
 			(uuid "02df8c39-ffb4-4993-80e4-46004e24a33a")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR04")
 					(unit 1)
@@ -7839,7 +7839,7 @@
 			(uuid "a7d14dfc-691c-4803-bb87-984740c0ae5c")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "Q2")
 					(unit 1)
@@ -7934,7 +7934,7 @@
 			(uuid "d79aa913-1eb4-4527-bed4-9844eb34ec09")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "U1")
 					(unit 1)
@@ -8013,7 +8013,7 @@
 			(uuid "d9eb15f5-4db1-4982-8c56-728d7256a043")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "D2")
 					(unit 1)
@@ -8094,7 +8094,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "MK2")
 					(unit 1)
@@ -8173,7 +8173,7 @@
 			(uuid "62113d31-d88b-4cf6-b430-dc9e27601ae3")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R6")
 					(unit 1)
@@ -8254,7 +8254,7 @@
 			(uuid "f07c68dd-18d6-467d-8c7c-179c98227b87")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "J4")
 					(unit 1)
@@ -8336,7 +8336,7 @@
 			(uuid "c496d9a2-d24a-4136-951e-82be8da95dba")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "Q1")
 					(unit 1)
@@ -8371,7 +8371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 139.3952 50.8 0)
 			(effects
 				(font
@@ -8380,7 +8380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL31B226KPHNNNE_C87996.pdf"
 			(at 138.43 46.99 0)
 			(effects
 				(font
@@ -8398,7 +8398,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C784103"
+		(property "LCSC" "C87996"
 			(at 138.43 46.99 0)
 			(effects
 				(font
@@ -8414,7 +8414,7 @@
 			(uuid "bf441410-49b9-4a17-80fd-23591b7fef51")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C8")
 					(unit 1)
@@ -8493,7 +8493,7 @@
 			(uuid "db7cd3f9-aa4a-4088-bab0-494139067856")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R4")
 					(unit 1)
@@ -8572,7 +8572,7 @@
 			(uuid "fbbb3a59-ba9c-47f2-bdb4-6c2cdb13e0d6")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C2")
 					(unit 1)
@@ -8599,7 +8599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "20k"
 			(at 240.03 120.0149 0)
 			(effects
 				(font
@@ -8617,7 +8617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311211102_YAGEO-RT0805BRD0720KL_C469660.pdf"
 			(at 237.49 118.745 0)
 			(effects
 				(font
@@ -8635,7 +8635,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2989281"
+		(property "LCSC" "C469660"
 			(at 237.49 118.745 0)
 			(effects
 				(font
@@ -8651,7 +8651,7 @@
 			(uuid "fba08dba-f1e7-433d-83bf-7f012cd19842")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R10")
 					(unit 1)
@@ -8676,7 +8676,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uH"
+		(property "Value" "3.3uH"
 			(at 90.805 34.925 90)
 			(effects
 				(font
@@ -8684,7 +8684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "YSPI0724-4R7M:IND-SMD_L7.3-W6.6_YSPI07XX"
+		(property "Footprint" "HX_CYA1050-3.3UH:IND-SMD_L11.6-W10.1"
 			(at 90.805 37.465 0)
 			(effects
 				(font
@@ -8693,7 +8693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2406141138_TECHFUSE-SL0624-4R7M_C22463813.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2409291903_hanxia-HX-CYA1050-3-3UH_C7587741.pdf"
 			(at 90.805 37.465 0)
 			(effects
 				(font
@@ -8711,7 +8711,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22463813"
+		(property "LCSC" "C7587741"
 			(at 90.805 37.465 90)
 			(effects
 				(font
@@ -8727,7 +8727,7 @@
 			(uuid "72728d0b-5cbb-45d5-95e1-e734960cdc3c")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "L1")
 					(unit 1)
@@ -8792,7 +8792,7 @@
 			(uuid "4b0cb99f-2b13-4119-9aeb-d2b96e915aba")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR027")
 					(unit 1)
@@ -8857,7 +8857,7 @@
 			(uuid "9f188dd3-2cae-4d08-9ecf-9b865917387d")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR07")
 					(unit 1)
@@ -8935,7 +8935,7 @@
 			(uuid "bf7edd3b-da70-46cb-9aa5-0cebc1a3519e")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C5")
 					(unit 1)
@@ -9016,7 +9016,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "MK3")
 					(unit 1)
@@ -9095,7 +9095,7 @@
 			(uuid "ec6e5d59-f8f3-479b-b2f9-18d1e6526ff6")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R5")
 					(unit 1)
@@ -9177,7 +9177,7 @@
 			(uuid "83749e4c-86e9-41db-b470-e5f623fb1b29")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "J5")
 					(unit 1)
@@ -9243,7 +9243,7 @@
 			(uuid "83aef8fc-52d9-4f2a-a001-9437111a26be")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR015")
 					(unit 1)
@@ -9327,7 +9327,7 @@
 			(uuid "c9a32df3-41ac-4852-9361-2e22c33ef6ca")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "J3")
 					(unit 1)
@@ -9393,7 +9393,7 @@
 			(uuid "04b0afff-9498-40a7-93f6-115ecf0061be")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR010")
 					(unit 1)
@@ -9459,7 +9459,7 @@
 			(uuid "96b00186-9e77-4dbb-8ad8-53ba0955a7c3")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR02")
 					(unit 1)
@@ -9525,7 +9525,7 @@
 			(uuid "9382007e-0a26-48d8-93ad-20e67a4b9d8b")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR022")
 					(unit 1)
@@ -9560,7 +9560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 132.4102 50.8 0)
 			(effects
 				(font
@@ -9569,7 +9569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL31B226KPHNNNE_C87996.pdf"
 			(at 131.445 46.99 0)
 			(effects
 				(font
@@ -9587,7 +9587,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C784103"
+		(property "LCSC" "C87996"
 			(at 131.445 46.99 0)
 			(effects
 				(font
@@ -9603,7 +9603,7 @@
 			(uuid "f7fc522b-1225-4781-a7a8-062b2b361b50")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C7")
 					(unit 1)
@@ -9669,7 +9669,7 @@
 			(uuid "603cf05a-a692-49ee-b25c-a7f5964bc26e")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR018")
 					(unit 1)
@@ -9735,7 +9735,7 @@
 			(uuid "5713ca58-2290-4eaa-9ad5-f0c5ee2dc3f3")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR08")
 					(unit 1)
@@ -9800,7 +9800,7 @@
 			(uuid "95748111-4101-4028-95e2-667d4066af81")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR031")
 					(unit 1)
@@ -9879,7 +9879,7 @@
 			(uuid "ca3cce3b-af7c-46b6-84fa-e227853d6a4d")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R1")
 					(unit 1)
@@ -9944,7 +9944,7 @@
 			(uuid "3a437c6d-0d7b-436b-906e-4ec5ddba6c07")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR03")
 					(unit 1)
@@ -10010,7 +10010,7 @@
 			(uuid "fa8f5c5c-7176-40b3-9731-62ac1ad1ecb2")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR017")
 					(unit 1)
@@ -10089,7 +10089,7 @@
 			(uuid "c0938329-2679-4652-a600-d06bbeb767bc")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C1")
 					(unit 1)
@@ -10155,7 +10155,7 @@
 			(uuid "b58ac0b0-1df1-4300-b494-528c74668fe0")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR012")
 					(unit 1)
@@ -10233,7 +10233,7 @@
 			(uuid "f55dd375-ff8e-4a6e-b712-623d9fc4b577")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C4")
 					(unit 1)
@@ -10299,7 +10299,7 @@
 			(uuid "7a70124c-1f79-4607-9cb8-4aacec640f43")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR019")
 					(unit 1)
@@ -10365,7 +10365,7 @@
 			(uuid "baab72d6-5e93-4029-8bd0-a7b48ff3d8d2")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR09")
 					(unit 1)
@@ -10455,7 +10455,7 @@
 			(uuid "d4979ec6-f201-4931-a926-3416a535352b")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "U2")
 					(unit 1)
@@ -10682,7 +10682,7 @@
 			(uuid "36849b2b-273c-45d5-b92b-13b3b2436a60")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "P1")
 					(unit 1)
@@ -10748,7 +10748,7 @@
 			(uuid "72513241-2b60-41bc-b552-d5c2bc1706b7")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR06")
 					(unit 1)
@@ -10814,7 +10814,7 @@
 			(uuid "38a85941-d01a-47f2-bbe6-db362167cb93")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR0101")
 					(unit 1)
@@ -10849,7 +10849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 124.1552 50.8 0)
 			(effects
 				(font
@@ -10858,7 +10858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_PSA-Prosperity-Dielectrics-FS55X226K500EHG_C784103.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL31B226KPHNNNE_C87996.pdf"
 			(at 123.19 46.99 0)
 			(effects
 				(font
@@ -10876,7 +10876,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C784103"
+		(property "LCSC" "C87996"
 			(at 123.19 46.99 0)
 			(effects
 				(font
@@ -10892,7 +10892,7 @@
 			(uuid "4e7c75ed-41e6-4163-a15a-1ea8ed8cf04d")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C6")
 					(unit 1)
@@ -10926,7 +10926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JL500-50802G01:CONN-TH_2P-P5.08_JL500-50002G01"
+		(property "Footprint" "DB125-2.54-2P-GN:CONN-TH_DB125-2.54-2P-GN"
 			(at 251.46 29.21 0)
 			(effects
 				(font
@@ -10935,7 +10935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061530_DORABO-DB125-2-54-2P-GN-S_C918120.pdf"
 			(at 251.46 29.21 0)
 			(effects
 				(font
@@ -10953,7 +10953,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C709041"
+		(property "LCSC" "C918120"
 			(at 251.46 29.21 0)
 			(effects
 				(font
@@ -10969,7 +10969,7 @@
 			(uuid "01172446-70cd-41aa-a27b-c6e5ba72c1b4")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "J2")
 					(unit 1)
@@ -11048,7 +11048,7 @@
 			(uuid "06104a1e-6074-4f7b-9059-d94e84f81dcd")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R3")
 					(unit 1)
@@ -11127,7 +11127,7 @@
 			(uuid "3d43a58d-a6fb-4c95-8478-a4a12556c85d")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R2")
 					(unit 1)
@@ -11205,7 +11205,7 @@
 			(uuid "18955485-27a9-4052-873e-c8dd4bbec5ed")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "C3")
 					(unit 1)
@@ -11271,7 +11271,7 @@
 			(uuid "61417a93-a53d-42f1-aef2-62a739413985")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR013")
 					(unit 1)
@@ -11337,7 +11337,7 @@
 			(uuid "2faa7078-6ab9-41d7-ba30-03f7af2c39f5")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR016")
 					(unit 1)
@@ -11404,7 +11404,7 @@
 			(uuid "849115a4-b783-435e-8817-6f7fca794f17")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR029")
 					(unit 1)
@@ -11480,7 +11480,7 @@
 			(uuid "c412334e-99fe-48c5-92d2-535a43cac22e")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R9")
 					(unit 1)
@@ -11559,7 +11559,7 @@
 			(uuid "bcbbc124-d2e6-44bc-ab12-7f0b960f9fd7")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R8")
 					(unit 1)
@@ -11625,7 +11625,7 @@
 			(uuid "bd2428e2-16fa-4afd-b2c7-385b70d39477")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR05")
 					(unit 1)
@@ -11704,7 +11704,7 @@
 			(uuid "b09d92a2-3bb3-4230-a374-e28b0fe973b5")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "R7")
 					(unit 1)
@@ -11771,7 +11771,7 @@
 			(uuid "603bc931-5904-4aad-98ab-52cbd524fcae")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR026")
 					(unit 1)
@@ -11836,7 +11836,7 @@
 			(uuid "429305de-1c5d-4c24-8f83-293e700b93db")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR023")
 					(unit 1)
@@ -11902,7 +11902,7 @@
 			(uuid "b4547ea3-71a7-4d59-ae70-f4817f362b48")
 		)
 		(instances
-			(project ""
+			(project "dcdchat"
 				(path "/fc205db2-e29e-4c86-be1e-e8195783a830"
 					(reference "#PWR01")
 					(unit 1)
