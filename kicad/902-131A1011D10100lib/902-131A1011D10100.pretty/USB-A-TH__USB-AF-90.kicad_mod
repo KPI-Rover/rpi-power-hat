@@ -2041,4 +2041,15 @@
 		(uuid "bcc7cd0e-16e5-400e-b301-44732639a765")
 	)
 	(embedded_fonts no)
+	(model "D:/KiCad_My_Project/kicad/902-131A1011D10100lib/902-131A1011D10100.3dshapes/USB-A-TH__USB-AF-90.wrl"
+		(offset
+			(xyz 0 -4.5 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
