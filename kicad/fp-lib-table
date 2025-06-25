@@ -12,4 +12,5 @@
   (lib (name "MMPQ3904")(type "KiCad")(uri "${KIPRJMOD}/MMPQ3904lib/MMPQ3904.pretty")(options "")(descr ""))
   (lib (name "HSBA100P04")(type "KiCad")(uri "${KIPRJMOD}/HSBA100P04lib/HSBA100P04.pretty")(options "")(descr ""))
   (lib (name "902-131A1011D10100")(type "KiCad")(uri "${KIPRJMOD}/902-131A1011D10100lib/902-131A1011D10100.pretty")(options "")(descr ""))
+  (lib (name "DB127V-5.08-2P-GN-S")(type "KiCad")(uri "${KIPRJMOD}/DB127V-5.08-2P-GN-Slib/DB127V-5.08-2P-GN-S.pretty")(options "")(descr ""))
 )
