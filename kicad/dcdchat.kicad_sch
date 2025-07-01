@@ -9140,8 +9140,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C2987717"
-			(at 44.45 29.21 0)
+		(property "LCSC" "C2987717"
+			(at 29.21 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9745,7 +9745,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C2987717"
+		(property "LCSC" "C2987717"
 			(at 200.66 30.48 0)
 			(effects
 				(font
@@ -10140,7 +10140,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C2345"
+		(property "LCSC" "C2345"
 			(at 218.44 171.45 0)
 			(effects
 				(font
